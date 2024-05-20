@@ -2,6 +2,16 @@
 
 Simple Event Scheduler to display events in on specific event date.
 
+>Step 1 : Open cmd 
+```
+npm install
+```
+
+>Step 2 : 
+```
+npm run dev
+```
+
 A pop modal for detail view.
  
 - Events are accepted as a JSON Array
