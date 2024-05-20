@@ -73,6 +73,7 @@
   .day {
     padding: 10px;
     position: relative;
+    text-align: center;
 }
 
 .day.active {

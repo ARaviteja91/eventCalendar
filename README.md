@@ -28,4 +28,4 @@ const events = [
 
 ```
 
-![image](ss_calendar.jpg)
+<img src="ss_Calendar.jpg" alt="screen shot">
